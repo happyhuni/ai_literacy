@@ -1,0 +1,36 @@
+# 작업 참고 자료
+.work/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/settings.local.json
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+logs/
